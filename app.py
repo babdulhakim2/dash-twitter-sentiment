@@ -7,7 +7,7 @@ import random
 import plotly.graph_objs as go
 from collections import deque
 import sqlite3
-import pandas as pd
+import pandas as pd 
 
 #popular topics: google, olympics, trump, gun, usa
 
